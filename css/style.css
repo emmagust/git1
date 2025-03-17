@@ -155,7 +155,7 @@ button.bg-primary:hover {
 .btn-info {
   background-color: #9ba7ca;
   border: 1px solid #9ba7ca;
-  -webkit-box-shadow: 0 2px 6px 0 rgba(155, 167, 202, 0.5);
+  -webkit-box-shadow: 0 2px 6px 0 rgba(231, 171, 60, 0.5);
   box-shadow: 0 2px 6px 0 rgba(155, 167, 202, 0.5);
 }
 
